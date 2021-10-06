@@ -7,6 +7,9 @@ A directory of useful tools for frontend development
 ### Auditing Tools
 - [yellowlab.tools](https://yellowlab.tools/) - Checks if performance good practices are respected. Detects problems on HTML, CSS, JS, images, fonts and more. Provides precise information to fix the detected performance issues.
 
+### Colors
+- [coolors.co](https://coolors.co/) - Create the perfect color palette or get inspired by thousands of beautiful color schemes.
+
 ### Image Converters/Compression
 - [anywebp.com](https://anywebp.com/convert-to-webp.html) - Capable of converting all possible image formats to WebP in batch process. Support all of the following image formats: JPG/PNG/GIF/SVG/iCO/BMP
 - [compressjpeg.com](https://compressjpeg.com/) - Compress JPG files
