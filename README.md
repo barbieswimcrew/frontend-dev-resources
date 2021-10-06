@@ -11,3 +11,6 @@ A directory of useful tools for frontend development
 - [anywebp.com](https://anywebp.com/convert-to-webp.html) - Capable of converting all possible image formats to WebP in batch process. Support all of the following image formats: JPG/PNG/GIF/SVG/iCO/BMP
 - [compressjpeg.com](https://compressjpeg.com/) - Compress JPG files
 - [compresspng.com](https://compresspng.com/) - Compress PNG files
+
+### Helper without it would be impossible for me to code
+- [https://stackoverflow.com/]
