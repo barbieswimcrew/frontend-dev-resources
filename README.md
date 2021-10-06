@@ -10,6 +10,9 @@ A directory of useful tools for frontend development
 ### Benchmark
 - [measurethat.net](https://www.measurethat.net/) - Create a benchmark, measure performance of the JavaScript code and pick the fastest version.
 
+### Coding
+- [emmet.io](https://docs.emmet.io/cheat-sheet/) - Emmet is a web-developer’s toolkit that can greatly improve your HTML & CSS workflow by writing snippets/expressions.
+
 ### Colors
 - [coolors.co](https://coolors.co/) - Create the perfect color palette or get inspired by thousands of beautiful color schemes.
 
