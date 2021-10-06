@@ -12,5 +12,8 @@ A directory of useful tools for frontend development
 - [compressjpeg.com](https://compressjpeg.com/) - Compress JPG files
 - [compresspng.com](https://compresspng.com/) - Compress PNG files
 
+### Benchmark
+- [measurethat.net](https://www.measurethat.net/) - Create a benchmark, measure performance of the JavaScript code and pick the fastest version.
+
 ### Helper without it would be impossible for me to code
 - [https://stackoverflow.com/]
