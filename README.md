@@ -15,6 +15,7 @@ A directory of useful tools for frontend development
 
 ### Colors
 - [coolors.co](https://coolors.co/) - Create the perfect color palette or get inspired by thousands of beautiful color schemes.
+- [nightpalette.com](https://nightpalette.com/) - A free inspirational color palette tool made for dark mode design: Night Palette.
 
 ### Image Converters/Compression
 - [anywebp.com](https://anywebp.com/convert-to-webp.html) - Capable of converting all possible image formats to WebP in batch process. Support all of the following image formats: JPG/PNG/GIF/SVG/iCO/BMP
@@ -22,4 +23,4 @@ A directory of useful tools for frontend development
 - [compresspng.com](https://compresspng.com/) - Compress PNG files
 
 ### Helper without it would be impossible for me to code
-- [https://stackoverflow.com/]
+- [stackoverflow.com](https://stackoverflow.com/)
