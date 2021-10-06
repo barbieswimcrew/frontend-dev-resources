@@ -15,6 +15,8 @@ A directory of useful tools for frontend development
 
 ### Colors
 - [coolors.co](https://coolors.co/) - Create the perfect color palette or get inspired by thousands of beautiful color schemes.
+- [colorleap.app](https://colorleap.app/home) - Take a leap through time and see the colors of history.
+- [cssgradient.io](https://cssgradient.io/) - A fantastic little tool to help you generate and implement both linear and radial gradients.
 - [nightpalette.com](https://nightpalette.com/) - A free inspirational color palette tool made for dark mode design: Night Palette.
 
 ### Image Converters/Compression
