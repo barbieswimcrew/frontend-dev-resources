@@ -20,7 +20,9 @@ A directory of useful tools for frontend development
 - [nightpalette.com](https://nightpalette.com/) - A free inspirational color palette tool made for dark mode design: Night Palette.
 
 ### CSS Generators
+- [9elements.github.io/fancy-border-radius](https://9elements.github.io/fancy-border-radius/) - Border radius generator.
 - [cssgradient.io](https://cssgradient.io/) - A fantastic little tool to help you generate and implement both linear and radial gradients.
+- [cssgrid-generator-netlify.app](https://cssgrid-generator.netlify.app/) - Let's create gss grids the easy way.
 - [shadows.brumm.af](https://shadows.brumm.af/) - Make a smooth shadow with the CSS shadow generator.
 
 ### Image Converters/Compression
