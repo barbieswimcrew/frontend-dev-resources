@@ -18,6 +18,7 @@ A directory of useful tools for frontend development
 - [coolors.co](https://coolors.co/) - Create the perfect color palette or get inspired by thousands of beautiful color schemes.
 - [colorleap.app](https://colorleap.app/home) - Take a leap through time and see the colors of history.
 - [nightpalette.com](https://nightpalette.com/) - A free inspirational color palette tool made for dark mode design: Night Palette.
+- [realtimecolors.com](https://realtimecolors.com/) - Visualize Your Colors on a Real Website. :rocket:
 
 ### CSS Generators
 - [9elements.github.io/fancy-border-radius](https://9elements.github.io/fancy-border-radius/) - Border radius generator.
@@ -32,3 +33,7 @@ A directory of useful tools for frontend development
 
 ### Helper without it would be impossible for me to code
 - [stackoverflow.com](https://stackoverflow.com/)
+
+### Other useful tools
+- [fontpair.co](https://www.fontpair.co/all) - Browse through hundreds of free Google Font pairings to use for your next creative project.
+- [https://utopia.fyi/](https://utopia.fyi/) - Elegantly scale type and space without breakpoints.
