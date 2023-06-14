@@ -36,4 +36,4 @@ A directory of useful tools for frontend development
 
 ### Other useful tools
 - [fontpair.co](https://www.fontpair.co/all) - Browse through hundreds of free Google Font pairings to use for your next creative project.
-- [https://utopia.fyi/](https://utopia.fyi/) - Elegantly scale type and space without breakpoints.
+- [utopia.fyi](https://utopia.fyi/) - Elegantly scale type and space without breakpoints.
